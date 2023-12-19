@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pyfootballdata"
 authors = [
-    { name="S. Kovalenko", email="cmajorsmith@gmail.com" },
+    { name="Serhii Kovalenko", email="cmajorsmith@gmail.com" },
 ]
 description = "A companion client for the football-data.org API"
 readme = "README.md"
