@@ -33,4 +33,9 @@ dynamic = ["version"]
 Homepage = "https://github.com/cmajsmith/pyfootballdata"
 Issues = "https://github.com/cmajsmith/pyfootballdata/issues"
 
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["pyfootballdata*"]
+namespaces = false
+
 [tool.setuptools_scm]
