@@ -1,7 +1,7 @@
 import json
 import unittest
 
-from src.structs import Head2Head
+from src.pyfootballdata.structs import Head2Head
 
 
 class TestHead2Heads(unittest.TestCase):

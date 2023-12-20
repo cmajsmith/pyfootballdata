@@ -1,7 +1,7 @@
 import unittest
 
-from src import FootballData, FootballDataAsync
-from src.structs import Areas
+from src.pyfootballdata import FootballDataAsync
+from src.pyfootballdata.structs import Areas
 
 
 class TestFootballDataAsync(unittest.IsolatedAsyncioTestCase):

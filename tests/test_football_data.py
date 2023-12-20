@@ -1,6 +1,6 @@
 import unittest
 
-from src import FootballData
+from src.pyfootballdata import FootballData
 
 
 class TestFootballData(unittest.TestCase):
