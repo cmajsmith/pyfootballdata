@@ -1,7 +1,7 @@
 import json
 import unittest
 
-from src.structs import Scorers
+from src.pyfootballdata.structs import Scorers
 
 
 class TestScorers(unittest.TestCase):

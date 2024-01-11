@@ -1,8 +1,7 @@
-from src.structs.filters import collect_unique_items
-
 import unittest
 
-from src.structs.standings import convert_results_to_points, Form
+from src.pyfootballdata.structs.filters import collect_unique_items
+from src.pyfootballdata.structs.standings import convert_results_to_points, Form
 
 
 class TestUtils(unittest.TestCase):

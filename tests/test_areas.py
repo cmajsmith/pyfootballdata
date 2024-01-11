@@ -1,6 +1,6 @@
 import json
 import unittest
-from src.structs import Areas, Area
+from src.pyfootballdata.structs import Areas, Area
 
 
 class TestAreas(unittest.TestCase):
